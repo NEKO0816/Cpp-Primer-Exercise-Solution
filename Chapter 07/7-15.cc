@@ -24,3 +24,4 @@ std::ostream &print(std::ostream& os, const Person::Person& per)
 	os << per.name << " " << per.addr;
 	return os;
 }
+ 
