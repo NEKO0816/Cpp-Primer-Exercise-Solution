@@ -1,0 +1,2 @@
+1. When finding eof.
+2. When finding input error, such as i is an int, but input is a char.
