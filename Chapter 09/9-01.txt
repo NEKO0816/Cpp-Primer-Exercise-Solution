@@ -1,0 +1,3 @@
+a. List is better, because it will insert in the middle of container.
+b. Deque is better, because it will insert or delete in the front or end of container.
+c. Vector is better, because we only need insert word in the back and sort.

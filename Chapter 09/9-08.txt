@@ -1,0 +1,2 @@
+Read: list<string>::const_iterator
+Write: list<string>::iterator
