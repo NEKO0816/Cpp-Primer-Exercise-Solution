@@ -1,0 +1,3 @@
+1. if elem1 == elem2, then there will be no action.
+2. if elem2 is the off the end iterator, it will delete from elem1 to the last element.
+3. if they are both off the end iterators, there will be no action.
